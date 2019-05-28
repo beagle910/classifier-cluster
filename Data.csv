@@ -1,0 +1,11 @@
+Gender,Age,Salary,Purchased
+Male,44,72000,No
+Female,27,48000,Yes
+Male,30,54000,No
+Male,38,61000,No
+Female,40,,Yes
+Male,35,58000,Yes
+Female,,52000,No
+Male,48,79000,Yes
+Female,50,83000,No
+Male,37,67000,Yes
